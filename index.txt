@@ -1,2 +1,3 @@
 hello
 github dan yazdım
+git hub daan yeni bir fonksiyon
